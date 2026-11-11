@@ -1,0 +1,67 @@
+{
+ "date": "2026-10-19",
+ "article": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-19-2026/",
+ "status": 200,
+ "maps": [
+  {
+   "folder": "Overview",
+   "page": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-russo-ukrainian-war-october-19-2026-at-130-pm-et/",
+   "off_topic": false,
+   "date_mismatch": false,
+   "saved": "saved 447688",
+   "file": "26.10/_raw/Overview/26.10.19.png",
+   "image_url": "https://understandingwar.org/wp-content/uploads/2026/10/Russo-Ukrainian-War-October-19-2026.png",
+   "size": "1795x2244"
+  },
+  {
+   "folder": "North-Lyman",
+   "page": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-area-north-of-lyman-october-19-2026-at-130-pm-et/",
+   "off_topic": false,
+   "date_mismatch": false,
+   "saved": "saved 610398",
+   "file": "26.10/_raw/North-Lyman/26.10.19.png",
+   "image_url": "https://understandingwar.org/wp-content/uploads/2026/10/North-Lyman-Direction-October-19-2026.png",
+   "size": "1795x2244"
+  },
+  {
+   "folder": "Lyman-Tactical-Area",
+   "page": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-lyman-tactical-area-october-19-2026-at-130-pm-et/",
+   "off_topic": false,
+   "date_mismatch": false,
+   "saved": "saved 554613",
+   "file": "26.10/_raw/Lyman-Tactical-Area/26.10.19.png",
+   "image_url": "https://understandingwar.org/wp-content/uploads/2026/10/Lyman-Tactical-Area-October-19-2026.png",
+   "size": "1795x2244"
+  },
+  {
+   "folder": "Dobropillya-Tactical-Area",
+   "page": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-dobropillya-tactical-area-october-19-2026-at-130-pm-et/",
+   "off_topic": false,
+   "date_mismatch": false,
+   "saved": "saved 662797",
+   "file": "26.10/_raw/Dobropillya-Tactical-Area/26.10.19.png",
+   "image_url": "https://understandingwar.org/wp-content/uploads/2026/10/Dobropillya-Tactical-Area-October-19-2026.png",
+   "size": "1795x2244"
+  },
+  {
+   "folder": "Orikhiv",
+   "page": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-orikhiv-direction-october-19-2026-at-130-pm-et/",
+   "off_topic": false,
+   "date_mismatch": false,
+   "saved": "saved 621185",
+   "file": "26.10/_raw/Orikhiv/26.10.19.png",
+   "image_url": "https://understandingwar.org/wp-content/uploads/2026/10/Orikhiv-Direction-October-19-2026.png",
+   "size": "1795x2244"
+  },
+  {
+   "folder": "Zaporizhzhia-City",
+   "page": "https://understandingwar.org/map/assessed-control-of-terrain-in-the-zaporizhzhia-city-direction-october-19-2026-at-130-pm-et/",
+   "off_topic": false,
+   "date_mismatch": false,
+   "saved": "saved 560103",
+   "file": "26.10/_raw/Zaporizhzhia-City/26.10.19.png",
+   "image_url": "https://understandingwar.org/wp-content/uploads/2026/10/Zaporizhzhia-City-Direction-October-19-2026.png",
+   "size": "1795x2244"
+  }
+ ]
+}

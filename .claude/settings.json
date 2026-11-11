@@ -1,0 +1,24 @@
+{
+  "autoMemoryEnabled": false,
+  "enabledPlugins": {
+    "data@inline": false,
+    "gitlab@inline": false,
+    "firebase@claude-plugins-official": false,
+    "github@claude-plugins-official": false
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit|NotebookEdit|MultiEdit|Bash|PowerShell|Monitor|mcp__terminal__run_in_terminal",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python \"$CLAUDE_PROJECT_DIR/.claude/hooks/block_global.py\"",
+            "timeout": 10,
+            "onFailure": "block"
+          }
+        ]
+      }
+    ]
+  }
+}
